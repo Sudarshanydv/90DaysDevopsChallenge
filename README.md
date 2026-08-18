@@ -1,5 +1,3 @@
-# 90DaysDevopsChallenge
-
 # 90DaysDevOpsChallenge
 
 ## AWS DevOps Learning Journey
