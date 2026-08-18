@@ -6,7 +6,7 @@ I am starting my #90DaysDevOpsChallenge to improve my practical knowledge of AWS
 
 During this challenge, I will focus on learning concepts and implementing them through hands-on practice.
 
-## Topics I Will Cover
+## Topics I Will Cover 
 
 ### AWS
 
