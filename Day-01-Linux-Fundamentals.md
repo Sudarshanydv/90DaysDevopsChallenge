@@ -2,7 +2,7 @@
 
 # Day 01 - Linux Fundamentals
 
-## Introduction
+## Introduction 
 
 Today I started my **100 Days of DevOps Challenge** with Linux fundamentals.
 
