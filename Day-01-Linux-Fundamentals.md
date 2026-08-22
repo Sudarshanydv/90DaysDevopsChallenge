@@ -3,7 +3,7 @@
 # Day 01 - Linux Fundamentals
 
 ## Introduction 
-
+ 
 Today I started my **100 Days of DevOps Challenge** with Linux fundamentals.
 
 Linux is one of the most important foundations of DevOps. Most cloud servers, web servers, containers, CI/CD environments, and production systems use Linux.
