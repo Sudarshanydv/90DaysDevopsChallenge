@@ -10,7 +10,7 @@ GitHub is a cloud-based platform that provides Git repository hosting and collab
 
 For a DevOps engineer, understanding Git and GitHub is essential because most CI/CD pipelines start when developers push code to a Git repository.
 
----
+--- 
  
 ## What is Git?
 
