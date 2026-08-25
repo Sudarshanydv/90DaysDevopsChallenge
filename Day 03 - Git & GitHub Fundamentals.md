@@ -3,7 +3,7 @@
 # Day 03 - Git & GitHub Fundamentals 
 
 ## Introduction
-
+ 
 Git is one of the most important tools used in modern software development and DevOps. It helps developers and DevOps engineers track changes in source code, collaborate with team members, maintain different versions of applications, and safely manage code changes.
 
 GitHub is a cloud-based platform that provides Git repository hosting and collaboration features. It allows teams to store Git repositories, review code, manage issues, create pull requests, and integrate repositories with CI/CD tools.
