@@ -1,4 +1,4 @@
-# 100 Days of DevOps Challenge
+# 100 Days of DevOps Challenge...
 
 # Day 03 - Git & GitHub Fundamentals 
 
