@@ -9,7 +9,7 @@ Git is one of the most important tools used in modern software development and D
 GitHub is a cloud-based platform that provides Git repository hosting and collaboration features. It allows teams to store Git repositories, review code, manage issues, create pull requests, and integrate repositories with CI/CD tools.
 
 For a DevOps engineer, understanding Git and GitHub is essential because most CI/CD pipelines start when developers push code to a Git repository.
-
+ 
 --- 
  
 ## What is Git?
