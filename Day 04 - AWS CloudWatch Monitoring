@@ -10,7 +10,7 @@ What is AWS CloudWatch?
  
 Amazon CloudWatch helps us monitor AWS resources and applications in real time.
 
-For example, we can monitor: 
+For example, we can monitor:  
 
 EC2 CPU utilization
 EC2 network traffic
