@@ -7,7 +7,7 @@ As a DevOps Engineer, CloudWatch is very useful for monitoring production infras
 AWS CloudWatch provides metrics, logs, alarms, dashboards, and other monitoring capabilities.
 
 What is AWS CloudWatch?
-
+ 
 Amazon CloudWatch helps us monitor AWS resources and applications in real time.
 
 For example, we can monitor:
