@@ -9,7 +9,7 @@ AWS CloudWatch provides metrics, logs, alarms, dashboards, and other monitoring 
 What is AWS CloudWatch?
  
 Amazon CloudWatch helps us monitor AWS resources and applications in real time.
-
+ 
 For example, we can monitor:  
 
 EC2 CPU utilization
