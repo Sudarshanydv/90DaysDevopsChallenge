@@ -1,4 +1,4 @@
-# Day 05 - AWS IAM Fundamentals
+# Day 05 - AWS IAM Fundamentals.
 
 ## What is IAM?
 
