@@ -6,7 +6,7 @@ AWS IAM stands for Identity and Access Management.
 
 IAM is used to securely control who can access AWS resources and what actions they can perform.
 
-## Main Components of IAM.. 
+## Main Components of IAM...
 
 ### 1. IAM User
 
